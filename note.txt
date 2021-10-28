@@ -1,0 +1,73 @@
+1. Intro                                                            👋
+2. Instalasi & Konfigurasi                                          👋
+3. Struktur Folder, Routes & View                                   👋
+4. Blade Templating Engine                                          👋
+5. Model, Collection & Controller                                   👋
+6. Database, Migration & Eloquent                                   👋
+7. Post Model                                                       👋
+8. Post Category & Eloquent Relationship                            👋
+9. Database Seeder                                                  👋
+10. Factory & Faker                                                 👋
+11. N+1 Problem                                                     👋
+12. Redesign UI                                                     👋
+13. Searching & Pagination                                          👋
+14. View Login & Registration                                       👋
+15. User Registration                                               👋
+16. User Login & Middleware                                         👋
+17. Dashboard UI                                                    👋
+    1. intro                                                        🌱
+    2. download template bootstrap                                  🌱
+    3. menghapus controller dashboard                               🌱
+    4. membuat dan mengubah view dashboard                          🌱
+    5. mengubah view menjadi layout                                 🌱
+    6. mengubah feather icon                                        🌱
+    7. membuat halaman my posts (resource controller)               🌱
+    8. memperbaiki menu yang active                                 🌱
+    9. menampilkan data post berdasarkan user yang Login            🌱
+    10. membuat halaman detail post                                 🌱
+    11 penutup                                                      🌱
+18. Create Post Form                                                👋
+19. Validation & Insert Post                                        👋
+    1. intro                                                        🌱
+    2. Validasi form create                                         🌱
+    3. Menampilkan pesan error                                      🌱
+    4. Menampilkan inputan lama                                     🌱
+    5. Menyimpan data ke tabel post                                 🌱
+    6. Menampilkan pesan sukses                                     🌱
+    7. memperbaiki bagian lain                                      🌱
+    8. Fitur keamanan trix editor                                   🌱
+    9. Penutup                                                      🌱
+20. Update & Delete Post                                            👋
+    1. intro                                                        🌱
+    2. Membuat fitur delete                                         🌱
+    3. Membuat halaman update                                       🌱
+    4. Memperbaiki halamaan update                                  🌱
+    5. Mengubah data                                                🌱
+    6. Penutup                                                      🌱
+21. Upload Image                                                    👋
+    1. intro                                                        🌱  
+    2. Membuat input file                                           🌱  
+    3. Cara kerja upload file                                       🌱  
+    4. Konfigurasi file storage                                     🌱  
+    5. Membuat field image di tabel post                            🌱  
+    6. Validasi image                                               🌱  
+    7. Menampilkan image pada post                                  🌱  
+    8. Penutup                                                      🌱  
+22. Preview, Update & Delete Image                                  👋
+    1. Membuat fitur preview image                                  🌱  
+    2. Update image                                                 🌱  
+    3. delete image                                                 🌱  
+    4. penutup                                                      🌱  
+23. Authorization                                                   👋
+24. Upload Ke Web Hosting (GRATIS)                                  👋
+
+
+login :
+name : pahrurozi-blog
+pass : W6kGu#KHGn17EkZ(C6NE
+
+Database :
+dbname : laravel_blog => id17848192_laravel_blog
+dbuser : pahrurozidev => id17848192_pahrurozidev
+dbhost : localhost
+password : m!25V0tA}=)KK8R[
